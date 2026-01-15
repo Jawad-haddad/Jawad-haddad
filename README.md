@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 About Me
+#  About Me
 
 ```yaml
 Name: Jawad Haddad
@@ -40,8 +40,6 @@ Currently Learning:
   - Vision Transformers (ViTs)
   - Real-time Object Detection
   - Signal Processing for Localization
-
-
 ```
 
 
