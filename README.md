@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Jawad;I+build+Advanced+CNNs;I+work+on+Vision+Transformers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&background=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+I'm+Jawad;I+build+Advanced+CNNs;I+work+on+Vision+Transformers" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -31,25 +31,32 @@
 
 <h3>My favorite tools and technologies ⚙️</h3>
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,linux,cpp,cs,js,react" />
-  <img src="https://skillicons.dev/icons?i=flutter,arduino,blender,unity,git,mongodb,firebase,vscode,visualstudio,idea" />
-</marquee>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="4" width="100%">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,linux,cpp,cs,js,react" alt="Row 1" style="margin-bottom: 15px;" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=flutter,arduino,blender,unity,git,mongodb,firebase,vscode,visualstudio,idea" alt="Row 2" />
+  </marquee>
+</div>
 
 <br><br>
 
 <h3>GitHub Stats 📊</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-haddad&show_icons=true&theme=radical" alt="Jawad's Github Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-haddad&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jawad-haddad&show_icons=true&theme=radical&hide_border=true" alt="Jawad's Github Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-haddad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
+</div>
 
 <h3>GitHub Profile Trophy 🏆</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jawad-haddad&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-</a>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jawad-haddad&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+</div>
 
 <br><br>
 
