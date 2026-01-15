@@ -31,15 +31,15 @@
 
 <div align="center">
 
-| Language | Language | Language | Web / Frame | Backend |
+| Language | Language | AI & Data | Web / Frame | Backend |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/> |
-| **C#** | **C++** | **JavaScript** | **HTML** | **CSS** |
+| <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="50"/> | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/> |
+| **C#** | **C++** | **TensorFlow / PyTorch** | **HTML** | **CSS** |
 
-| Framework | Database | DevOps | OS | Version Control |
+| Analysis | Database | DevOps | OS | Version Control |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/> |
-| **Django** | **Postgres** | **Docker** | **Linux** | **GitHub** |
+| <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" height="50"/> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/> |
+| **Pandas / NumPy** | **Postgres** | **Docker** | **Linux** | **GitHub** |
 
 | Tools | Tools | Styling | SCM |
 | :---: | :---: | :---: | :---: |
