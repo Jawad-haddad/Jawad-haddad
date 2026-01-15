@@ -27,6 +27,23 @@
   </a>
 </p>
 
+
+
+<h2 align="center">🛠 Languages & Tools</h2>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="55" height="55" />
+  
+  <br/>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,postgres,linux,postman&theme=dark" />
+</div>
 </div>
 
 
