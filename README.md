@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=333333&background=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=Hi+there!+I'm+Jawad+Haddad;I+Build+Advanced+CNNs;I+Develop+Vision+Transformers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=333333&background=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Jawad+Haddad;Software+Engineering+Student;I+build+Advanced+CNNs+and+ViTs;I+fix+cars+on+the+weekends+🏎️" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -21,18 +21,21 @@
   </a>
 </p>
 
-<br>
-
-<h3>👨‍💻 About Me</h3>
-<p align="center" width="800">
-  Welcome to my GitHub Page. I am <b>Jawad Haddad</b>. I learn new things about programming and teach them to others.<br> 
-  I am currently working on <b>Advanced CNN Architectures</b> and <b>Vision Transformers</b>.
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=jawad-haddad&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-haddad" /> 
 </p>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>👨‍💻 About Me</h3>
+<p align="center" width="800">
+  🌱 I’m currently learning <b>Advanced CNN Architectures</b>, <b>Vision Transformers (ViTs)</b>, and <b>Real-time Object Detection</b>.<br>
+  ⚡ Fun fact: <b>I fix cars on the weekends to get away from screens.</b>
+</p>
 
+<br>
+
+<h3>🛠️ Languages and Tools</h3>
 <table border="0" width="100%" align="center">
     <tbody align="center">
         <tr bgcolor="#24292e">
@@ -55,14 +58,16 @@
 <br><br>
 
 <h3>📊 GitHub Stats</h3>
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jawad-haddad&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Jawad's Github Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-haddad&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jawad-haddad&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-haddad&layout=compact&theme=algolia&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
