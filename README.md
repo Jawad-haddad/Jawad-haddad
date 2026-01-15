@@ -31,15 +31,15 @@
 
 <div align="center">
 
-| Language | Language | AI & ML | Data Analysis | Web Stack |
+| Language | Language | Language | AI & ML | Data Analysis |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50"/> |
-| **C#** | **C++** | **TensorFlow / PyTorch** | **Pandas / NumPy** | **HTML / CSS / JS** |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> |
+| **Python** | **C#** | **C++** | **TensorFlow / PyTorch** | **Pandas / NumPy** |
 
-| Database | DevOps | OS | Version Control | Tools |
+| Web Stack | Database | DevOps | OS | Tools |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/> |
-| **Postgres** | **Docker** | **Linux** | **Git** | **Postman** |
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50"/> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" height="50"/> |
+| **HTML / CSS / JS** | **Postgres** | **Docker** | **Linux** | **Git / Postman** |
 
 </div>
 
