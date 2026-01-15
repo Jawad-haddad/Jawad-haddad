@@ -31,7 +31,7 @@
 
 <br>
 
-<h3>🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <table border="0" width="100%" align="center">
     <tbody align="center">
@@ -45,8 +45,7 @@
         <tr bgcolor="#161b22">
             <td align="center" style="padding: 20px;">
                 <marquee behavior="scroll" direction="left" scrollamount="5" width="100%">
-                    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,linux,cpp,cs,js,react" height="50" style="margin-right: 30px;" />
-                    <img src="https://skillicons.dev/icons?i=flutter,arduino,blender,unity,git,mongodb,firebase,vscode,visualstudio,idea" height="50" />
+                    <img src="https://skillicons.dev/icons?i=arduino,azure,blender,cpp,cs,css,docker,firebase,flutter,git,html,js,linux,mongodb,opencv,pandas,postman,python,pytorch,react,tensorflow,unity" height="50" />
                 </marquee>
             </td>
         </tr>
