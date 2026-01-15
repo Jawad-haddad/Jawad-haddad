@@ -46,4 +46,11 @@ Currently Learning:
   - Real-time Object Detection
   - Signal Processing for Localization
 
+
+```
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jawad-haddad/jawad-haddad/output/github-contribution-grid-snake.svg" />
+</p>
   
