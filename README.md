@@ -27,6 +27,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jawad-haddad/jawad-haddad/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 🧠 About Me
 
 ```yaml
@@ -40,3 +45,5 @@ Currently Learning:
   - Vision Transformers (ViTs)
   - Real-time Object Detection
   - Signal Processing for Localization
+
+  
