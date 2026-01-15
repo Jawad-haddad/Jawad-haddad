@@ -10,6 +10,10 @@
 <p align="center" width="800">
    I’m currently learning <b>Advanced CNN Architectures</b>, <b>Vision Transformers (ViTs)</b>, and <b>Real-time Object Detection</b>.
 </p>
+
+<br>
+
+<h3> Languages and Tools</h3>
 <marquee><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="45" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="45" />
@@ -31,10 +35,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="45" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="45" />
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" height="45" /></marquee>
-<br>
-
-<h3> Languages and Tools</h3>
-
 <table border="0" width="100%" align="center">
     <tbody align="center">
         <tr bgcolor="#101010">
