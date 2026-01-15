@@ -31,15 +31,15 @@
 
 <div align="center">
 
-| Language | Language | AI & ML | Data Analysis | Web Frontend |
+| Language | Language | AI & ML | Data Analysis | Web |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="50"/> |
-| **C#** | **C++** | **TensorFlow / PyTorch** | **Pandas / NumPy** | **HTML / CSS** |
+| **C#** | **C++** | **TensorFlow / PyTorch** | **Pandas / NumPy** | **HTML / CSS / JavaScript**  |
 
-| Backend | Database | DevOps | OS | Version Control |
-| :---: | :---: | :---: | :---: | :---: |
+| Database | DevOps | OS | Version Control |
+ :---: | :---: | :---: | :---: |
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/> |
-| **JavaScript** | **Postgres** | **Docker** | **Linux** | **GitHub** |
+ **Postgres** | **Docker** | **Linux** | **GitHub** |
 
 | Tools | Tools | Styling | | |
 | :---: | :---: | :---: | :---: | :---: |
