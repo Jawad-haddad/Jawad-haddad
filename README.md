@@ -6,28 +6,48 @@
 
 <br><br>
 
-<h3>👨‍💻 About Me</h3>
+<h3> About Me</h3>
 <p align="center" width="800">
-  🌱 I’m currently learning <b>Advanced CNN Architectures</b>, <b>Vision Transformers (ViTs)</b>, and <b>Real-time Object Detection</b>.
+   I’m currently learning <b>Advanced CNN Architectures</b>, <b>Vision Transformers (ViTs)</b>, and <b>Real-time Object Detection</b>.
 </p>
+<marquee><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45" />
 
+<img src="https://img.shields.io/badge/-_-0d1117?style=for-the-badge" height="45" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="45" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="45" />
+
+<img src="https://img.shields.io/badge/-_-0d1117?style=for-the-badge" height="45" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" height="45" /></marquee>
 <br>
 
-<h3>🛠️ Languages and Tools</h3>
+<h3> Languages and Tools</h3>
+
 <table border="0" width="100%" align="center">
     <tbody align="center">
-        <tr bgcolor="#24292e">
-            <td align="left" height="40" style="padding-left: 20px;">
+        <tr bgcolor="#101010">
+            <td align="left" height="40" style="padding-left: 20px; border-bottom: 1px solid #303030;">
                <span style="color:#ff5f56; font-size: 25px;">●</span> 
                <span style="color:#ffbd2e; font-size: 25px;">●</span> 
                <span style="color:#27c93f; font-size: 25px;">●</span>
             </td>
         </tr>
-        <tr bgcolor="#161b22">
-            <td align="center" style="padding: 40px;">
+        <tr bgcolor="#0d1117">
+            <td align="center" style="padding: 30px;">
                 <marquee behavior="scroll" direction="left" scrollamount="5" width="100%">
-                    <img src="https://skillicons.dev/icons?i=arduino,azure,blender,cpp,cs,css,docker,firebase,flutter,git,html,js,linux,mongodb,opencv,pandas,postman,python,pytorch,react,tensorflow,unity" height="65" />
-                </marquee>
+                    </marquee>
             </td>
         </tr>
     </tbody>
