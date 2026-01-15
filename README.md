@@ -15,10 +15,11 @@
   <a href="https://github.com/jawad-haddad">
     <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="
+https://www.linkedin.com/in/jawad-haddad-bab388263/">
     <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:jawadhaddad6666@gmail.com">
     <img src="https://img.shields.io/badge/Email-68D6C8?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
