@@ -27,7 +27,7 @@
         <tr bgcolor="#0d1117">
             <td align="center" style="padding: 30px;">
                 <marquee behavior="scroll" direction="left" scrollamount="5" width="100%">
-                    
+                
                     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45" />
                     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="45" />
                     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="45" />
