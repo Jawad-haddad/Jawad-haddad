@@ -27,23 +27,25 @@
   </a>
 </p>
 
-
-
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="55" height="55" />
-  
-  <br/>
-  <br/>
 
-  <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,postgres,linux,postman&theme=dark" />
-</div>
+| Language | Language | Language | Web / Frame | Backend |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/> |
+| **C#** | **C++** | **JavaScript** | **HTML** | **CSS** |
+
+| Framework | Database | DevOps | OS | Version Control |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/> |
+| **Django** | **Postgres** | **Docker** | **Linux** | **GitHub** |
+
+| Tools | Tools | Styling | SCM |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/> | |
+| **Postman** | **Git** | **Tailwind** | |
+
 </div>
 
 
