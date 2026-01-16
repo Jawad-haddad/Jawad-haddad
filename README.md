@@ -2,7 +2,7 @@
 
 <!-- HERO HEADER -->
 
-
+<button class="g-button g-button--secondary" onclick="call_video_generation_generate_video(prompt='Animated intro video for a software engineer GitHub profile. The text &#39;Hi there! I am Jawad&#39; appears in the center with a waving hand. Dark background with subtle code effects.')">generate_video</button>
 <img 
   src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Jawad%20Haddad&fontSize=42&fontColor=68D6C8&animation=fadeIn" 
   width="100%" 
