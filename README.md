@@ -3,10 +3,8 @@
 <!-- HERO HEADER -->
 
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Jawad%20Haddad&fontSize=42&fontColor=68D6C8&animation=fadeIn" 
-  width="100%" 
-/>
+<img src="./intro.gif" alt="Hi, I'm Jawad" width="100%" />
+
 
 <!-- TYPING SUBTITLE -->
 <img 
