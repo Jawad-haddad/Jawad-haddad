@@ -27,6 +27,17 @@
   </a>
 </p>
 
+#  About Me
+
+```yaml
+Welcome to my GitHub page. I am Jawad Haddad, a Software Engineer. I am learning new things in Machine Learning, Deep Learning, and Data Analysis, and I like to share what I learn through my projects and code.
+
+I am building a strong foundation in AI, starting from math and core machine learning and moving toward deep learning, computer vision, NLP, and Generative AI. I focus on understanding how things work, not just using tools, and applying this knowledge to real-world problems.
+
+This GitHub is where I document my learning journey and the projects I build along the way.
+```
+
+
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <div align="center">
@@ -48,15 +59,7 @@
 
 ---
 
-#  About Me
 
-```yaml
-Welcome to my GitHub page. I am Jawad Haddad, a Software Engineer. I am learning new things in Machine Learning, Deep Learning, and Data Analysis, and I like to share what I learn through my projects and code.
-
-I am building a strong foundation in AI, starting from math and core machine learning and moving toward deep learning, computer vision, NLP, and Generative AI. I focus on understanding how things work, not just using tools, and applying this knowledge to real-world problems.
-
-This GitHub is where I document my learning journey and the projects I build along the way.
-```
 
 
 <p align="center">
