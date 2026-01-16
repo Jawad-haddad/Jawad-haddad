@@ -8,7 +8,7 @@
 
 <!-- TYPING SUBTITLE -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=68D6C8&background=203a43&center=true&vCenter=true&width=1000&height=60&lines=Software+Engineer;ML+%7C+Computer+Vision;ESP32+%7C+Raspberry+Pi+Projects;Game+%7C+Dev;" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=68D6C8&background=203a43&center=true&vCenter=true&width=1000&height=60&lines=Software+Engineer;ML+%7C+Computer+Vision;ESP32+%7C+Raspberry+Pi+Projects;Game+Dev;" 
   width="100%" 
 />
 
