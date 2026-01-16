@@ -3,7 +3,7 @@
 <!-- HERO HEADER -->
 
 
-<img src="./intro.gif" alt="Hi, I'm Jawad" width="100%" />
+<img src="./intro1.gif" alt="Hi, I'm Jawad" width="100%" />
 
 
 <!-- TYPING SUBTITLE -->
